@@ -37,6 +37,7 @@ api/v2/swagger-ui.json
 api/v3
 graphql
 humans.txt
+jwks.json
 openapi/api-docs
 openapi/api-docs.json
 openapi.html
@@ -144,6 +145,7 @@ v2/swagger-ui-openapi.html
 .well-known/host-meta
 .well-known/host-meta.json
 .well-known/http-opportunistic
+.well-known/jwks.json
 .well-known/keybase.txt
 .well-known/matrix
 .well-known/mercure
