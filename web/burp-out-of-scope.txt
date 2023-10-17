@@ -1,0 +1,11 @@
+*.doubleclick.net
+*.facebook.com
+*.facebook.net
+*.getpocket.com
+*.mozilla.com
+*.mozilla.net
+*.mozilla.org
+*.tiktok.com
+analytics.google.com
+*appdynamics.com
+www.googletagmanager.com
