@@ -1,0 +1,16 @@
+.*\.doubleclick\.net
+.*\.facebook\.com
+.*\.facebook\.net
+.*\.getpocket\.com
+.*\.mozilla\.com
+.*.mozilla\.net
+.*.mozilla\.org
+.*.tiktok\.com
+analytics\.google\.com
+.*appdynamics\.com
+www\.googletagmanager\.com
+www\.google-analytics\.com
+.*\.gvt1\.com
+.*\.gvt2\.com
+www\.googleapis\.com/affiliation/
+.*\.sentry\.io
