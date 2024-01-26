@@ -1,6 +1,7 @@
 (^|^[^:]+:\/\/|[^\.]+\.)analytics\.google\.com.*
 (^|^[^:]+:\/\/|[^\.]+\.)appdynamics\.com.*
 (^|^[^:]+:\/\/|[^\.]+\.)doubleclick\.net.*
+(^|^[^:]+:\/\/|[^\.]+\.)firefox\.com.*
 (^|^[^:]+:\/\/|[^\.]+\.)getpocket\.com
 (^|^[^:]+:\/\/|[^\.]+\.)googleapis\.com/affiliation/.*
 (^|^[^:]+:\/\/|[^\.]+\.)googletagmanager\.com.*
