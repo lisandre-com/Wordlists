@@ -1,0 +1,15 @@
+C:\Windows\my.ini 
+C:\Windows\my.cnf 
+C:\my.ini 
+C:\my.cnf 
+C:\xampp\apache\logs\access.log
+C:\xampp\mysql\my.ini 
+C:\xampp\mysql\my.cnf 
+C:\xampp\mysql\bin\my.ini 
+C:\xampp\mysql\bin\my.cnf
+C:\xampp\mysql\data\my.ini
+C:\xampp\mysql\data\mysql_upgrade_info
+C:\xampp\mysql\data\user.frm
+C:\xampp\mysql\data\mysql_error.log
+C:\xampp\xampp-control.ini
+C:\Program Files (x86)\FileZilla Server\FileZilla Server.xml
