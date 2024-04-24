@@ -1,0 +1,10 @@
+root
+admin
+administrator
+webmaster
+helpdesk
+hd
+test
+anonymous
+user
+guest
