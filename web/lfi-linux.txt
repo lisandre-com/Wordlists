@@ -1,0 +1,11 @@
+/etc/passwd
+/etc/group
+/etc/my.cnf
+/var/log/apache2/access.log
+/var/log/apache/access.log
+/var/www/html/index.html
+/var/www/html/index.php
+/var/www/html/index.asp
+/var/www/html/index.aspx
+/var/www/html/index.jsp
+/etc/exports
